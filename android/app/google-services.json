@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344150596179",
+    "project_id": "personal-data-e91a6",
+    "storage_bucket": "personal-data-e91a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344150596179:android:a7dd41b796e19ba73004a6",
+        "android_client_info": {
+          "package_name": "com.mujahid.pernaldata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344150596179-t3vsb8s92ljmaa9n38vh712r5n1alm4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdg23PXiuap3Y_kVJwVKSB6jR9jOE6c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344150596179-t3vsb8s92ljmaa9n38vh712r5n1alm4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
